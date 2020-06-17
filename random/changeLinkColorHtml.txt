@@ -1,0 +1,24 @@
+<html>
+
+<head>
+<title>This is my page</title>
+
+<STYLE TYPE="text/css"><!--
+A.set1:link {color: #FF00FF; }
+A.set1:active {color: #FFFF00; }
+A.set1:visited {color: #00FFFF; }
+
+A.set2:link {color: #AA00FF; background: FF00AA; text-decoration: none}
+A.set2:active {color: #FF00AA; background: none transparent;}
+A.set2:visited {color: #FFFF00; text-decoration: none}
+--></STYLE>
+
+</head>
+
+<body>
+Welcome to my world!<br>
+<a href="http://www.yahoo.com CLASS=set1> Yahoo </a>
+<a href="http://www.hotbot.com CLASS=set2> Hotbot </a>
+</body>
+
+</html>
